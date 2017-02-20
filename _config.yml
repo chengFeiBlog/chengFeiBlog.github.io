@@ -1,0 +1,8 @@
+title: 成飞的博客-github.io
+description: 成飞
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
